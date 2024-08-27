@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '../app.postcss';
-	import { AppBar, AppRail, AppRailTile, LightSwitch } from '@skeletonlabs/skeleton';
+	import { AppBar, AppRail, AppRailTile, LightSwitch, AppRailAnchor } from '@skeletonlabs/skeleton';
 
 	let currentTile: number = 0;
 </script>
@@ -18,9 +18,12 @@
 	<div class="grid grid-cols-1 md:grid-cols-[auto_1fr]">
 		<aside class="sticky p-1">
 			<AppRail>
-				<AppRailTile bind:group={currentTile} name="tile-1" value={0} title="Posts">
+				<AppRailAnchor bind:group={currentTile} name="tile-posts" value={0} title="Posts">
 					<span>Posts</span>
-				</AppRailTile>
+				</AppRailAnchor>
+				<AppRailAnchor bind:group={currentTile} name="tile-about" value={0} title="About">
+					<span>About</span>
+				</AppRailAnchor>
 			</AppRail>
 		</aside>
 		<main class="space-y-4 p-1">
