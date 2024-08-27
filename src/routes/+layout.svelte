@@ -1,14 +1,18 @@
 <script lang="ts">
 	import '../app.postcss';
-	import { AppBar, AppRail, AppRailTile } from '@skeletonlabs/skeleton';
+	import { AppBar, AppRail, AppRailTile, LightSwitch } from '@skeletonlabs/skeleton';
 
 	let currentTile: number = 0;
 </script>
 
+<title>Confused Ramblings</title>
 <div class="grid h-screen grid-rows-[auto_1fr_auto]">
 	<header class="sticky p-1">
-		<AppBar>
-			<svelte:fragment slot="headline">Scylla's Blog</svelte:fragment>
+		<AppBar slotTrail="place-content-end">
+			Scylla's Blog
+			<svelte:fragment slot="trail">
+				<LightSwitch />
+			</svelte:fragment>
 		</AppBar>
 	</header>
 	<div class="grid grid-cols-1 md:grid-cols-[auto_1fr]">
