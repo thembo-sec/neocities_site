@@ -27,14 +27,19 @@
 <section>
 	<ul class="posts">
 		{#each posts as post}
-			<li class="post">
-				<div class="container h-full mx-auto flex items-center">
-					<a href={post.slug} class="h2">{post.title}</a>
-				</div>
-				<p class="date">{formatDate(post.date)}</p>
-				<p class="description">{post.description}</p>
-				<hr class="dashed" />
-			</li>
+			{#if post.published == true}
+				<li class="post">
+					<div class="container h-1/2 mx-auto flex items-center">
+						<a href={post.slug} class="h2">{post.title}</a>
+					</div>
+					<p class="date">{formatDate(post.date)}</p>
+					<p class="description">{post.description}</p>
+					{#each post.categories as category}
+						<span class="chip variant-filled-surface">{category}</span>
+					{/each}
+					<hr class="dashed" />
+				</li>
+			{/if}
 		{/each}
 	</ul>
 </section>
@@ -64,5 +69,9 @@
 
 	hr.dashed {
 		margin-top: 10px;
+	}
+
+	.chip {
+		margin: 10px;
 	}
 </style>
