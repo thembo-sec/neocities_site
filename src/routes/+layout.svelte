@@ -34,7 +34,7 @@
 					<span>About</span>
 				</AppRailAnchor>
 				<AppRailAnchor
-					href="/"
+					href="/posts"
 					bind:group={currentTile}
 					name="tile-posts"
 					value={0}
