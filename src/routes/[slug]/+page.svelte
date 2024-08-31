@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { formatDate } from "$lib/utils";
+	import { formatDate } from '$lib/utils';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
@@ -9,14 +9,14 @@
 <article>
 	<!-- Title -->
 	<hgroup>
-		<h1 class="h1" >
+		<h1 class="h1">
 			{data.meta.title}
 		</h1>
 		<p>Published at {formatDate(data.meta.date)}</p>
 	</hgroup>
 
 	<!-- Post -->
-	<div class="prose" >
+	<div class="prose">
 		<svelte:component this={data.content} />
 	</div>
 </article>
@@ -27,6 +27,7 @@
 	}
 
 	h1 + p {
-		margin-top: 5px;
+		margin-top: 1em;
+		margin-bottom: 0.5em;
 	}
 </style>
