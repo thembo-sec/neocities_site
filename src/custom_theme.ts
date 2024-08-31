@@ -1,5 +1,6 @@
 // You can also use the generator at https://skeleton.dev/docs/generator to create these values for you
 import type { CustomThemeConfig } from '@skeletonlabs/tw-plugin';
+
 export const custom_theme: CustomThemeConfig = {
 	name: 'custom_theme',
 	properties: {

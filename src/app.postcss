@@ -4,7 +4,32 @@
 @tailwind variants;
 
 .prose :is(h1, h2, h3, h4, h5, h6) {
-		color: var(--text-1);
+		color: black;
 		margin-top: var(--size-8);
-		margin-bottom: var(--size-3);
+		margin-bottom: var(--size-8);
+	}
+
+.prose :is(p, a){
+		color: black;
+		margin-top: var(--size-8);
+	}
+
+.prose :is(li){
+		color: black;
+		margin: 0;	
+	}
+
+.dark .prose :is(h1, h2, h3, h4, h5, h6) {
+		color: white;
+		margin-top: var(--size-8);
+		margin-bottom: var(--size-8);
+	}
+
+.dark .prose :is(p, a){
+		color: white;
+		margin-top: var(--size-8);
+	}
+
+.dark .prose :is(li){
+		color: white;
 	}

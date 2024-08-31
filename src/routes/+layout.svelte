@@ -39,7 +39,7 @@
 					name="tile-posts"
 					value={0}
 					title="Posts"
-					selected={$page.url.pathname === '/'}
+					selected={$page.url.pathname === '/posts'}
 				>
 					<span>Posts</span>
 				</AppRailAnchor>

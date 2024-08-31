@@ -9,5 +9,3 @@
 	/>
 </svg>
 
-<style>
-</style>
