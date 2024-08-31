@@ -14,7 +14,7 @@
 <div class="grid h-screen grid-rows-[auto_1fr_auto]">
 	<header class="sticky p-1">
 		<AppBar slotTrail="place-content-end">
-			Scylla's Blog
+			<a href="/">Scylla's Blog</a>
 			<svelte:fragment slot="trail">
 				<LightSwitch />
 			</svelte:fragment>
