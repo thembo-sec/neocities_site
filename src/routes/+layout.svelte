@@ -1,8 +1,18 @@
 <script lang="ts">
-	import '../app.postcss';
-	import { AppBar, AppRail, AppRailTile, LightSwitch, AppRailAnchor } from '@skeletonlabs/skeleton';
-	import { page } from '$app/stores';
+	import "../app.postcss";
+	import "$lib/GitHubLogo.svelte";
+	import {
+		AppBar,
+		AppRail,
+		AppRailTile,
+		LightSwitch,
+		AppRailAnchor,
+	} from "@skeletonlabs/skeleton";
+
+	import { page } from "$app/stores";
+	import GitHubLogo from "$lib/GitHubLogo.svelte";
 	let currentTile: number = 0;
+	
 </script>
 
 <title>Confused Ramblings</title>
@@ -24,7 +34,7 @@
 					name="tile-posts"
 					value={0}
 					title="Posts"
-					selected={$page.url.pathname === '/'}
+					selected={$page.url.pathname === "/"}
 				>
 					<span>Posts</span>
 				</AppRailAnchor>
@@ -33,11 +43,20 @@
 					href="/about"
 					name="tile-about"
 					value={1}
-					selected={$page.url.pathname === '/about'}
+					selected={$page.url.pathname === "/about"}
 					title="About"
 				>
 					<span>About</span>
 				</AppRailAnchor>
+				<svelte:fragment slot="trail">
+					<AppRailAnchor
+						href="https://github.com/thembo-sec"
+						title="GitHub"
+					>
+						<i><GitHubLogo ></GitHubLogo></i>
+						<span>GitHub</span>
+					</AppRailAnchor>
+				</svelte:fragment>
 			</AppRail>
 		</aside>
 		<main class="space-y-4 p-1">
