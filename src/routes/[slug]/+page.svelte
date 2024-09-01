@@ -26,9 +26,6 @@
 </div>
 
 <style>
-	.content {
-		height: auto;
-	}
 	article {
 		min-height: calc(100vh - 95px);
 		display: flex;

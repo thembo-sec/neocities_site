@@ -17,11 +17,11 @@ There's some anxiety in putting this content out to a space where it can be cons
 I have been lucky enough however, to be surrounded by people who earnestly share parts of their lives publically, with seemingly little fear. One day I should ask them about that. Some of these people have even told me that they would like to read the things that I write, which does call their taste into question.
 So over the last few months, i've found myself writing more often. Nothing of particular consequence, just whatever is popping into my head on any given day.
 
-So over the last few months, i've found myself writing more often. Nothing of particular consequence, just whatever is popping into my head on any given day.
-So over the last few months, i've found myself writing more often. Nothing of particular consequence, just whatever is popping into my head on any given day.
-So over the last few months, i've found myself writing more often. Nothing of particular consequence, just whatever is popping into my head on any given day.
+## Development
 
+Without boring all of you, I highly recommend joy of code's guide in setting up a sveltekit blog that parses markdown files into blog posts. I've got some experience of webdev, but very little using modern webkits.
 
 ## References
 
 - https://joyofcode.xyz/sveltekit-markdown-blog#setting-up-mdsvex
+- https://skeleton.dev/docs
