@@ -32,14 +32,19 @@
 		drawerStore.open(drawerSettings);
 	}
 
+	function setHoverColour() {
+		console.log('hi');
+	}
+
 	export let data;
 </script>
 
 <title>Confused Ramblings</title>
 <Drawer position="left">
-	<AppRail>
+	<AppRail active="bg-white text-black">
 		<AppRailAnchor
 			bind:group={currentTile}
+			on:mouseover={setHoverColour}
 			selected={$page.url.pathname === '/about'}
 			name="about-tile"
 			value={0}
@@ -48,6 +53,7 @@
 			<span>About</span>
 		</AppRailAnchor>
 		<AppRailAnchor
+			on:mouseover={setHoverColour}
 			bind:group={currentTile}
 			selected={$page.url.pathname === '/'}
 			name="posts-tile"
@@ -78,9 +84,9 @@
 			gridColumns="grid-cols-3"
 		>
 			<svelte:fragment slot="lead">
-				<button type="button" class="btn btn-lg variant-filled" on:click={openMenu}
-					><i class="fa-solid fa-bars text-2xl" /></button
-				>
+				<button type="button" class="btn btn-lg variant-filled" on:click={openMenu}>
+					<i class="fa-solid fa-bars text-2xl" />
+				</button>
 			</svelte:fragment>
 			<span>Incoherent Ramblings</span>
 			<svelte:fragment slot="trail">
