@@ -37,11 +37,6 @@
 		vertical-align: middle;
 	}
 
-	@media only screen and (max-width: 620px) {
-		article {
-			width: 80vw;
-		}
-	}
 	h1 {
 		text-transform: capitalize;
 	}
