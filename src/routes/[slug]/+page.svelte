@@ -30,8 +30,4 @@
 		margin-top: 1em;
 		margin-bottom: 0.5em;
 	}
-
-	pre.shiki.poimandres {
-		border-radius: 0px;
-	}
 </style>
