@@ -2,7 +2,8 @@
 title: Building my blog
 description: Blog post about putting together a blog. Both the why and the how.
 categories: [code]
-date: '2024-09-1'
+date: '2024-08-31'
+edited: '2024-09-1'
 published: true
 ---
 

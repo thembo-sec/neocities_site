@@ -14,7 +14,10 @@
 				<h1 class="h1">
 					{data.meta.title}
 				</h1>
-				<p>Published at {formatDate(data.meta.date)}</p>
+				<p>
+					Published at {formatDate(data.meta.date)}
+					{#if data.meta.edited != ''}| Last edit at {formatDate(data.meta.edited)}{/if}
+				</p>
 			</hgroup>
 
 			<!-- Post -->
