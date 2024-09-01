@@ -56,6 +56,18 @@
 		>
 			<span>Posts</span>
 		</AppRailAnchor>
+		<svelte:fragment slot="trail">
+			<AppRailAnchor
+				bind:group={currentTile}
+				name="github-tile"
+				value={2}
+				href="https://github.com/thembo-sec"
+			>
+				<svelte:fragment slot="lead">
+					<GitHubLogo viewBoxSetting={'0 0 100 100'} scale=".6"></GitHubLogo>
+				</svelte:fragment>
+			</AppRailAnchor>
+		</svelte:fragment>
 	</AppRail>
 </Drawer>
 <div class="grid h-screen grid-rows-[auto_1fr_auto]">
@@ -74,9 +86,6 @@
 			<svelte:fragment slot="trail">
 				<div>
 					<LightSwitch />
-				</div>
-				<div>
-					<GitHubLogo viewBoxSetting={'0 0 100 100'} scale=".6"></GitHubLogo>
 				</div>
 			</svelte:fragment>
 		</AppBar>
