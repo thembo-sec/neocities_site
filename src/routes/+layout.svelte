@@ -25,7 +25,7 @@
 
 	const drawerSettings: DrawerSettings = {
 		id: 'navigationMenu',
-		width: 'w-[120px]'
+		width: 'inline-block'
 	};
 
 	function openMenu() {
