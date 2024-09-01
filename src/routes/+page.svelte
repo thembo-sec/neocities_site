@@ -34,7 +34,7 @@
 					<p class="date">{formatDate(post.date)}</p>
 					<p class="description">{post.description}</p>
 					{#each post.categories as category}
-						<span class="chip variant-filled-surface">{category}</span>
+						<span class="chip variant-filled-surface">#{category}</span>
 					{/each}
 					<hr class="dashed" />
 				</li>
