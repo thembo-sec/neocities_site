@@ -56,21 +56,16 @@
 				</TabAnchor>
 			</TabGroup>
 			<svelte:fragment slot="trail">
-				<div class="grid grid-cols-4">
-					<div></div>
 					<div>
 						<LightSwitch />
 					</div>
 					<div>
 						<GitHubLogo
-							viewBoxSetting={'-400 -25 550 150'}
-							scale="2"
-							heightSetting={'100%'}
-							widthSetting={'100%'}
+							viewBoxSetting={'0 0 100 100'}
+							scale=".6"
 						></GitHubLogo>
 					</div>
-				</div></svelte:fragment
-			>
+				</svelte:fragment>
 		</AppBar>
 	</header>
 	<div class="grid grid-cols-1 md:grid-cols-[auto_1fr]">

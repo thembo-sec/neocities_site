@@ -1,20 +1,19 @@
 <script lang="ts">
 	export let viewBoxSetting = '0 0 100 100';
-	export let heightSetting = '50%';
-	export let widthSetting = '50%';
+
 	export let scale = '1';
 </script>
 
 <a href="/">
 	<svg
+	width="98" height="96"
 		class="fill-token"
 		id="github"
 		href="/"
 		transform="scale({scale})"
 		viewBox={viewBoxSetting}
 		xmlns="http://www.w3.org/2000/svg"
-		height={heightSetting}
-		width={widthSetting}
+
 		preserveAspectRatio="xMidYMid meet"
 		><path
 			fill-rule="evenodd"
