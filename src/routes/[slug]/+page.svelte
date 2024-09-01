@@ -6,9 +6,9 @@
 	console.log(data.content);
 </script>
 
-<article>
+<div class="m-5">
 	<!-- Title -->
-	<hgroup>
+	<hgroup class="m-5">
 		<h1 class="h1">
 			{data.meta.title}
 		</h1>
@@ -19,7 +19,7 @@
 	<div class="prose">
 		<svelte:component this={data.content} />
 	</div>
-</article>
+</div>
 
 <style>
 	h1 {
@@ -29,5 +29,9 @@
 	h1 + p {
 		margin-top: 1em;
 		margin-bottom: 0.5em;
+	}
+
+	pre.shiki.poimandres {
+		border-radius: 0px;
 	}
 </style>

@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { json } from '@sveltejs/kit';
 	import type { Post } from '$lib/types';
 	import { formatDate } from '$lib/utils';
 
@@ -25,7 +24,7 @@
 </script>
 
 <section>
-	<ul class="posts">
+	<ul class="posts p-10">
 		{#each posts as post}
 			{#if post.published == true}
 				<li class="post">
