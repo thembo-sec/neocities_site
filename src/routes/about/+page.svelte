@@ -10,7 +10,7 @@
 			<li><a href="https://skeleton.dev">Skeleton</a></li>
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
-		<p></p>
+		<p>Posts are tagged, these don't do anything yet.</p>
 	</div>
 </div>
 
