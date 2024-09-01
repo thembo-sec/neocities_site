@@ -96,9 +96,7 @@
 			</svelte:fragment>
 		</AppBar>
 	</header>
-	<div class="grid grid-cols-1 md:grid-cols-[auto_1fr]">
-		<main class="space-y-4 p-1">
-			<slot />
-		</main>
-	</div>
+	<main>
+		<slot />
+	</main>
 </div>
