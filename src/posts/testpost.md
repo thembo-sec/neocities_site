@@ -12,7 +12,6 @@ So over the last few months, i've found myself writing more often. Nothing of pa
 
 But for whatever reason, rather than screaming into the void (read: scribbling into my moleskin notebook), I figured i'd scream into the void (the horror that is the world wide web).
 
-
 ```python
 def function():
     x: int = 1
