@@ -6,6 +6,8 @@ date: '2024-09-02'
 published: true
 ---
 
+## Why do clothes immediately change the way we feel about the people we interact with?
+
 The other day a friend of mine took me along to experimental music night. Lots of punks there, or people that share that aesthetic I guess. Leather jackets -covered in patches and painted on imagery - adorned the shoulders of many of the people there.
 
 Skinny jeans, multicoloured from different fabrics to cover all the repaired holes, reminded me of Japanese Boro fabric. The ship of Theseus is a thought experiment concerned with how the identity of an object changes as all of its components are replaced over time. I think these jeans *gain* identity through their constant repair and replacement. I'm sure smarter people than myself have commented on this before.
