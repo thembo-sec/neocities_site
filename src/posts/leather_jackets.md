@@ -3,6 +3,7 @@ title: Leather Jackets and patched jeans
 description: I saw a bunch of punks at a show and then I thought too hard about clothing
 categories: [fashion]
 date: '2024-09-02'
+edited: '2024-09-02'
 published: true
 ---
 
