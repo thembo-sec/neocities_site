@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Confused Ramblings - About</title>
+</svelte:head>
+
 <div class="container h-full mx-auto flex p-10">
 	<div class="space-y-5">
 		<h1 class="h1">About</h1>
@@ -10,7 +14,7 @@
 			<li><a href="https://skeleton.dev">Skeleton</a></li>
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
-		<p>Posts are tagged, these don't do anything yet.</p>
+		<p>Posts are tagged, these don't do anything yet. One day i'll get around to fixing that</p>
 	</div>
 </div>
 

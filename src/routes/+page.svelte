@@ -23,6 +23,11 @@
 	);
 </script>
 
+<svelte:head>
+<title>Confused Ramblings</title>
+
+</svelte:head>
+
 <section>
 	<ul class="posts p-10">
 		{#each posts as post}

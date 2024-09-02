@@ -39,7 +39,6 @@
 	export let data;
 </script>
 
-<title>Confused Ramblings</title>
 <Drawer position="left">
 	<AppRail active="bg-white text-black">
 		<AppRailAnchor

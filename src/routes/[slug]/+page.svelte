@@ -6,6 +6,10 @@
 	console.log(data.content);
 </script>
 
+<svelte:head>
+	<title>{data.meta.title}</title>
+</svelte:head>
+
 <div class="content">
 	<article>
 		<div class="m-5">
