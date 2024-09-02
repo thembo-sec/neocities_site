@@ -15,6 +15,8 @@
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
 		<p>Posts are tagged, these don't do anything yet. One day i'll get around to fixing that</p>
+
+		This site also has an rss feed at <a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
 	</div>
 </div>
 

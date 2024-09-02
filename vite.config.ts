@@ -32,7 +32,6 @@ function writeRss(): Plugin {
 
 	})
 
-	console.log(posts);
 
 	return {
 		name: 'rss-write',
@@ -71,7 +70,6 @@ function writeRss(): Plugin {
 				</rss>
 			`.trim();
 
-			console.log(posts);
 
 			fs.ensureFileSync(filePath);
 			fs.writeFile(filePath, xml);
