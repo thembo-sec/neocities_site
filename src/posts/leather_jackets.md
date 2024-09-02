@@ -17,7 +17,7 @@ It's hard not to feel like an outsider in this space. To be fair I am one. Not i
 
 'Yohji ass looking fit' I believe were the words used to describe my aesthetic on the day ✨. Clothing often identifies shared belonging to groups, it carries its own language. Badges replace slang, phrases are formulated from fabric and silhouette. I don't know what my outfit said to them, for me a punk in a leather jacket, shaved head with a pride flag patch is definitely friend shaped. I'd like to write more about this at some point.
 
-anyway, the music was certainly experimental. The first person on was using a lapel mic covered in steel wool to generate noise and feeding it through various synths and guitar peddles. 
+anyway, the music was certainly experimental. The first person on was using a lapel mic covered in steel wool to generate noise and feeding it through various synths and guitar peddles. I was pretty wrecked so I didn't stick around for the rest.
 
 ### The fit in qestion
 
