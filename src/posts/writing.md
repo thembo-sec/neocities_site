@@ -5,6 +5,7 @@ categories: [code]
 date: '2024-08-31'
 edited: '2024-09-1'
 published: true
+slug: writing
 ---
 
 # Why would I write a blog

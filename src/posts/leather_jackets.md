@@ -5,6 +5,7 @@ categories: [fashion]
 date: '2024-09-02'
 edited: '2024-09-02'
 published: true
+slug: leather_jackets
 ---
 
 ## Why do clothes immediately change the way we feel about the people we interact with?
