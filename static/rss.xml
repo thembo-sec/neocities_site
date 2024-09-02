@@ -3,7 +3,7 @@
 				<title>Ash's Incoherrent rambling</title>
 				<description>Random Thoughts</description>
 				<link>https://scylla.neocities.org</link>
-				<atom:link href="https://scylla.neocities.org/rss/rss.xml" rel="self" type="application/rss+xml"/>
+				<atom:link href="https://scylla.neocities.org/rss.xml" rel="self" type="application/rss+xml"/>
 				
 			</channel>
 		</rss>

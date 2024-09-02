@@ -32,10 +32,6 @@
 		drawerStore.open(drawerSettings);
 	}
 
-	function setHoverColour() {
-		console.log('hi');
-	}
-
 	export let data;
 </script>
 
@@ -43,7 +39,6 @@
 	<AppRail active="bg-white text-black">
 		<AppRailAnchor
 			bind:group={currentTile}
-			on:mouseover={setHoverColour}
 			selected={$page.url.pathname === '/about'}
 			name="about-tile"
 			value={0}
@@ -52,7 +47,6 @@
 			<span>About</span>
 		</AppRailAnchor>
 		<AppRailAnchor
-			on:mouseover={setHoverColour}
 			bind:group={currentTile}
 			selected={$page.url.pathname === '/'}
 			name="posts-tile"
