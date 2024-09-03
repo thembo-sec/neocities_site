@@ -21,7 +21,7 @@
 		</p>
 
 		<p>
-			This site also has an rss feed at<a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
+			This site also has an rss feed at <a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
 		</p>
 	</div>
 </div>
