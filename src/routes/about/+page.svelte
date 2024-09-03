@@ -5,8 +5,9 @@
 <div class="container h-full mx-auto flex p-10">
 	<div class="space-y-5">
 		<h1 class="h1">About</h1>
+		<p>Hello, I'm ash (they/them).</p>
 		<p>
-			Needed a spot to throw shit when I felt like putting it in a public place. This website is
+			I Needed a spot to throw shit when I felt like putting it in a public place. This website is
 			currently built using a combination of:
 		</p>
 		<ul class="list">
@@ -14,9 +15,14 @@
 			<li><a href="https://skeleton.dev">Skeleton</a></li>
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
-		<p>Posts are tagged, these don't do anything yet. One day i'll get around to fixing that</p>
+		<p>
+			Posts are tagged, these don't do anything yet. One day i'll get around to fixing that. They
+			will probably be a mix of tech/fasion/personal commentary.
+		</p>
 
-		This site also has an rss feed at <a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
+		<p>
+			This site also has an rss feed at<a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
+		</p>
 	</div>
 </div>
 
