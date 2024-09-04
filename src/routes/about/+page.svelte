@@ -7,8 +7,8 @@
 		<h1 class="h1">About</h1>
 		<p>Hello, I'm ash (they/them).</p>
 		<p>
-			I Needed a spot to throw shit when I felt like putting it in a public place. This website is
-			currently built using a combination of:
+			I Needed a spot to throw shit when I felt like putting it in a public place. The code is
+			available on my github. This website is currently built using a combination of:
 		</p>
 		<ul class="list">
 			<li><a href="https://svelte.dev">Svelte</a></li>
