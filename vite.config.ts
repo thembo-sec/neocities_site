@@ -8,6 +8,7 @@ import fm from 'yaml-front-matter';
 import fs from 'fs-extra';
 
 function writeRss(): Plugin {
+
 	let config: ResolvedConfig;
 
 	let posts: Post[] = [];
@@ -16,6 +17,7 @@ function writeRss(): Plugin {
 
 	let files = fs.readdirSync(mdPath);
 
+	// populate the post class with the metadata from the markdown
 	files.forEach(file => {
 		const data = fs.readFileSync(path.resolve('src', 'posts', file));
 		let content = fm.loadFront(data);
@@ -43,9 +45,6 @@ function writeRss(): Plugin {
 		writeBundle() {
 			const filePath = path.resolve(config.root, 'static', 'rss.xml');
 
-
-
-
 			const xml = `
 				<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 					<channel>
@@ -69,7 +68,6 @@ function writeRss(): Plugin {
 					</channel>
 				</rss>
 			`.trim();
-
 
 			fs.ensureFileSync(filePath);
 			fs.writeFile(filePath, xml);
