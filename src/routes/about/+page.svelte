@@ -17,7 +17,7 @@
 		</ul>
 		<p>
 			Posts are tagged, these don't do anything yet. One day i'll get around to fixing that. They
-			will probably be a mix of tech/fasion/personal commentary.
+			will probably be a mix of tech/fashion/personal commentary.
 		</p>
 
 		<p>
