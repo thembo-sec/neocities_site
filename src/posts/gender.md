@@ -7,9 +7,9 @@ edited: '2024-09-10'
 published: true
 ---
 
-# Gender? I hardly know her!
+# Gender? No thankyou I'm all out.
 
-I think a lot about gender. For those who know me this is unsurprising. For those who don't, I'm trans. Now, transgender is the commonly used term to describe a person who's gender doesn't align with what they were assigned at birth. Though I prefer the more old fashioned term, 'transsexual' myself for a number of reasons. 
+I think a lot about gender. For those who know me this is unsurprising. For those who don't, I'm trans, non-binary too. I use they/them pronouns because although I can never stop thinking about it, I'd rather avoid the concept of gender completely. Now, transgender is the commonly used term to describe a person who's gender doesn't align with what they were assigned at birth. Though I prefer the more old fashioned term, 'transsexual' myself for a number of reasons. 
 
 The first reason being that I find it deeply amusing how uncomfortable it makes cis people, as well as a surprising amount of queer people. The second being that I don't really think '*transgender*' captures the way I feel about myself. Its important to note early on that I have no qualms with those who *do* prefer to identify with transgender. Gender and a persons relationship with their body are *highly* personal, and I don't think that my attitude and identity is more or less correct than another persons. I don't even think there *is* an objectively correct lens to view this through, these thoughts are merely indicative of my attitude towards the whole thing.
 
