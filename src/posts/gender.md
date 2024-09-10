@@ -37,6 +37,6 @@ So really I think transsexual is a more fitting term for myself. I don't view my
 
 I do often find this alienating, many transfemmes don't hold the same view of themselves. I'm transfeminine in that myself and trans women have very similar experiences with the medical system, and have taken similar steps to change our bodies. 
 
-But there the similarities end. Torrey Peters said in an interview something that has resonated with me since: "*For me, there’s always been a question of being trans and doing trans*". I've never felt like i'm doing trans in a way that seems to align with many of the other trans people I meet. I never feel like I'm doing it right, at this point I don't think I ever will. 
+But there the similarities end. Torrey Peters said in an interview something that has resonated with me since: "*For me, there’s always been a question of being trans and doing trans*". I've never felt like i'm doing trans in a way that seems to align with many of the other trans people I meet. I never feel like I'm doing it right, and after six years of it I don't think I ever will. 
 
 I hope one day I'll learn to sit with that. "*To be a woman is to perform*" and I never bothered to audition.
