@@ -7,7 +7,7 @@ edited: '2024-09-10'
 published: true
 ---
 
-# Gender? No thankyou I'm all out.
+# Gender? Sorry, I'm all out.
 
 I think a lot about gender. For those who know me this is unsurprising. For those who don't, I'm trans, non-binary too. I use they/them pronouns because although I can never stop thinking about it, I'd rather avoid the concept of gender completely. Now, transgender is the commonly used term to describe a person who's gender doesn't align with what they were assigned at birth. Though I prefer the more old fashioned term, 'transsexual' myself for a number of reasons. 
 
