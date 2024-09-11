@@ -34,7 +34,7 @@ So really I think transsexual is a more fitting term for myself. I don't view my
 
 ## Being Trans vs Doing Trans
 
-I do often find this alienating, transfemmes undestandably don't often hold the same view of themselves. Many trans women I know have a very concrete self identity and assurance in their womanhood, a necessity when having to constantly fight for its recognition.
+I do often find this alienating, transfemmes understandably don't often hold the same view of themselves. Many trans women I know have a very concrete self identity and assurance in their womanhood, a necessity when having to constantly fight for its recognition.
 
 Surely there must be some common ground? We have very similar experiences with the medical system, and have taken similar steps to change our bodies.
 
