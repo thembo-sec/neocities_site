@@ -7,7 +7,7 @@ edited: '2024-09-10'
 published: true
 ---
 
-# Gender? Sorry, I'm all out.
+# Gender? Sorry, I'm all out
 
 I think a lot about gender. For those who know me this is unsurprising. For those who don't, I'm trans, non-binary too. I use they/them pronouns because although I can never stop thinking about it, I'd rather avoid the concept of gender completely. Now, transgender is the commonly used term to describe a person who's gender doesn't align with what they were assigned at birth. Though I prefer the more old fashioned term, 'transsexual' myself for a number of reasons. 
 
@@ -32,11 +32,14 @@ What I did decide to do was to start HRT, and go through the process of 'transit
 
 So really I think transsexual is a more fitting term for myself. I don't view myself as ontologically a man or woman. I've never really identified with the experience of man or womanhood in a way that made me desire to be one or the other. The reality is that I view HRT in a similar way as I do to getting tattooed, I want to be able to control the way my body looks to the best of my ability for not much more reason other than its *mine* and I *can*. Also I have killer C cups.
 
-
 ## Being Trans vs Doing Trans
 
-I do often find this alienating, many transfemmes don't hold the same view of themselves. I'm transfeminine in that myself and trans women have very similar experiences with the medical system, and have taken similar steps to change our bodies. 
+I do often find this alienating, transfemmes undestandably don't often hold the same view of themselves. Many trans women I know have a very concrete self identity and assurance in their womanhood, a necessity when having to constantly fight for its recognition.
 
-But there the similarities end. Torrey Peters said in an interview something that has resonated with me since: "*For me, there’s always been a question of being trans and doing trans*". I've never felt like i'm doing trans in a way that seems to align with many of the other trans people I meet. I never feel like I'm doing it right, and after six years of it I don't think I ever will. 
+Surely there must be some common ground? We have very similar experiences with the medical system, and have taken similar steps to change our bodies.
 
-I hope one day I'll learn to sit with that. "*To be a woman is to perform*" and I never wanted to audition. 
+Torrey Peters said in an interview something that has resonated with me since: ["*For me, there’s always been a question of being trans and doing trans*"](https://www.dazeddigital.com/life-culture/article/51840/1/torrey-peters-detransition-baby-skewers-the-detransition-taboo). I've never felt like I'm *doing* trans in a way that seems to align with many of the other trans people I meet. I've never really connected with the stories of many trans awakenings, of transition experiences, or descriptions of transfemininity.
+
+I never feel like I'm doing trans *right*, and after six years of it I don't think I ever will.
+
+I hope one day I'll learn to sit with that. "*To be a woman is to perform*" and I never wanted to audition.
