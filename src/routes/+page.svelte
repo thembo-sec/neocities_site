@@ -7,7 +7,11 @@
 	let tags: string = "";
 
 	function filterTags(category: string): void {
-		tags = category;
+		if (tags === category) {
+			tags = "";
+		} else {
+			tags = category;
+		}
 	}
 
 	const paths = import.meta.glob("/src/posts/*.md", { eager: true });
@@ -37,7 +41,7 @@
 <section>
 	<ul class="posts p-10">
 		{#each posts as post}
-			{#if post.published == true && (tags == '' || post.categories.some(tag => tag === tags))}
+			{#if post.published == true && (tags == "" || post.categories.some((tag) => tag === tags))}
 				<li class="post">
 					<div class="container h-1/2 mx-auto flex items-center">
 						<a href={post.slug} class="h2">{post.title}</a>
@@ -48,9 +52,13 @@
 						<button
 							class="chip variant-soft hover:variant-filled"
 							on:click={() => filterTags(category)}
-							>#{category}
-							</button
 						>
+							{#if category === tags}
+								<span>⤫</span>
+								<span></span>
+							{/if}
+							#{category}
+						</button>
 					{/each}
 					<hr class="dashed" />
 				</li>
