@@ -69,6 +69,7 @@
 		</svelte:fragment>
 	</AppRail>
 </Drawer>
+
 <div class="grid h-screen grid-rows-[auto_1fr_auto]">
 	<header class="sticky p-1">
 		<AppBar

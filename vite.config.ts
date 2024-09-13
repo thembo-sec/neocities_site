@@ -21,6 +21,7 @@ function writeRss(): Plugin {
 	files.forEach(file => {
 		const data = fs.readFileSync(path.resolve('src', 'posts', file));
 		let content = fm.loadFront(data);
+
 		const post: Post = {
 			title: content.title,
 			description: content.description,
@@ -30,6 +31,7 @@ function writeRss(): Plugin {
 			edited: content.edited,
 			published: content.published
 		};
+		
 		posts.push(post);
 
 	})
