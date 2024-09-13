@@ -1,37 +1,43 @@
 <script lang="ts">
-	import type { Post } from '$lib/types';
-	import { formatDate } from '$lib/utils';
+	import type { Post } from "$lib/types";
+	import { formatDate } from "$lib/utils";
 
 	let posts: Post[] = [];
 
-	const paths = import.meta.glob('/src/posts/*.md', { eager: true });
+	let tags: string = "";
+
+	function filterTags(category: string): void {
+		tags = category;
+	}
+
+	const paths = import.meta.glob("/src/posts/*.md", { eager: true });
 
 	for (const path in paths) {
 		const file = paths[path];
 
-		const slug = path.split('/').at(-1)?.replace('.md', '');
+		const slug = path.split("/").at(-1)?.replace(".md", "");
 
-		if (file && typeof file === 'object' && 'metadata' in file && slug) {
-			const metadata = file.metadata as Omit<Post, 'slug'>;
+		if (file && typeof file === "object" && "metadata" in file && slug) {
+			const metadata = file.metadata as Omit<Post, "slug">;
 			const post = { ...metadata, slug } satisfies Post;
 			post.published && posts.push(post);
 		}
 	}
 
 	posts = posts.sort(
-		(first, second) => new Date(second.date).getTime() - new Date(first.date).getTime()
+		(first, second) =>
+			new Date(second.date).getTime() - new Date(first.date).getTime(),
 	);
 </script>
 
 <svelte:head>
-<title>Confused Ramblings</title>
-
+	<title>Confused Ramblings</title>
 </svelte:head>
 
 <section>
 	<ul class="posts p-10">
 		{#each posts as post}
-			{#if post.published == true}
+			{#if post.published == true && (tags == '' || post.categories.some(tag => tag === tags))}
 				<li class="post">
 					<div class="container h-1/2 mx-auto flex items-center">
 						<a href={post.slug} class="h2">{post.title}</a>
@@ -39,7 +45,12 @@
 					<p class="date">{formatDate(post.date)}</p>
 					<p class="description">{post.description}</p>
 					{#each post.categories as category}
-						<span class="chip variant-filled-surface">#{category}</span>
+						<button
+							class="chip variant-soft hover:variant-filled"
+							on:click={() => filterTags(category)}
+							>#{category}
+							</button
+						>
 					{/each}
 					<hr class="dashed" />
 				</li>
