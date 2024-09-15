@@ -1,9 +1,9 @@
 <script lang="ts">
-	import '../app.postcss';
-	import '$lib/GitHubLogo.svelte';
-	import '@fortawesome/fontawesome-free/css/fontawesome.css';
-	import '@fortawesome/fontawesome-free/css/brands.css';
-	import '@fortawesome/fontawesome-free/css/solid.css';
+	import "../app.postcss";
+	import "$lib/GitHubLogo.svelte";
+	import "@fortawesome/fontawesome-free/css/fontawesome.css";
+	import "@fortawesome/fontawesome-free/css/brands.css";
+	import "@fortawesome/fontawesome-free/css/solid.css";
 	import {
 		AppBar,
 		AppRail,
@@ -11,11 +11,15 @@
 		initializeStores,
 		Drawer,
 		LightSwitch,
-		getDrawerStore
-	} from '@skeletonlabs/skeleton';
-	import type { AppRailTile, DrawerSettings, DrawerStore } from '@skeletonlabs/skeleton';
-	import { page } from '$app/stores';
-	import GitHubLogo from '$lib/GitHubLogo.svelte';
+		getDrawerStore,
+	} from "@skeletonlabs/skeleton";
+	import type {
+		AppRailTile,
+		DrawerSettings,
+		DrawerStore,
+	} from "@skeletonlabs/skeleton";
+	import { page } from "$app/stores";
+	import GitHubLogo from "$lib/GitHubLogo.svelte";
 
 	initializeStores();
 
@@ -24,8 +28,8 @@
 	const drawerStore = getDrawerStore();
 
 	const drawerSettings: DrawerSettings = {
-		id: 'navigationMenu',
-		width: 'inline-block'
+		id: "navigationMenu",
+		width: "inline-block",
 	};
 
 	function openMenu() {
@@ -39,7 +43,7 @@
 	<AppRail active="bg-white text-black">
 		<AppRailAnchor
 			bind:group={currentTile}
-			selected={$page.url.pathname === '/about'}
+			selected={$page.url.pathname === "/about"}
 			name="about-tile"
 			value={0}
 			href="/about"
@@ -48,7 +52,7 @@
 		</AppRailAnchor>
 		<AppRailAnchor
 			bind:group={currentTile}
-			selected={$page.url.pathname === '/'}
+			selected={$page.url.pathname === "/"}
 			name="posts-tile"
 			value={1}
 			href="/"
@@ -63,7 +67,8 @@
 				href="https://github.com/thembo-sec"
 			>
 				<svelte:fragment slot="lead">
-					<GitHubLogo viewBoxSetting={'0 0 100 100'} scale=".6"></GitHubLogo>
+					<GitHubLogo viewBoxSetting={"0 0 100 100"} scale=".6"
+					></GitHubLogo>
 				</svelte:fragment>
 			</AppRailAnchor>
 		</svelte:fragment>
@@ -78,11 +83,15 @@
 			gridColumns="grid-cols-3"
 		>
 			<svelte:fragment slot="lead">
-				<button type="button" class="btn btn-lg variant-filled" on:click={openMenu}>
+				<button
+					type="button"
+					class="btn btn-lg variant-filled"
+					on:click={openMenu}
+				>
 					<i class="fa-solid fa-bars text-2xl" />
 				</button>
 			</svelte:fragment>
-			<span>Incoherent Ramblings</span>
+			<a href="/"><span class="h3">Incoherent Ramblings</span></a>
 			<svelte:fragment slot="trail">
 				<div>
 					<LightSwitch />
