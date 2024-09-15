@@ -7,6 +7,12 @@ import path from 'path';
 import fm from 'yaml-front-matter';
 import fs from 'fs-extra';
 
+
+/**  
+ * This plugin takes each post and adds it to the RSS feed.
+ * 
+ * The feed is written to /static as that is constant during the build process.
+*/
 function writeRss(): Plugin {
 
 	let config: ResolvedConfig;
