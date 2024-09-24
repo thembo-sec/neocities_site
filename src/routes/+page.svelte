@@ -39,6 +39,7 @@
 </svelte:head>
 
 <section>
+	<div class="content">
 	<ul class="posts p-10">
 		{#each posts as post}
 			{#if post.published == true && (tags == "" || post.categories.some((tag) => tag === tags))}
@@ -50,7 +51,7 @@
 					<p class="description">{post.description}</p>
 					{#each post.categories as category}
 						<button
-							class="chip variant-soft hover:variant-filled"
+							class="chip variant-filled-primary hover:variant-filled-secondary"
 							on:click={() => filterTags(category)}
 						>
 							{#if category === tags}
@@ -65,6 +66,7 @@
 			{/if}
 		{/each}
 	</ul>
+</div>
 </section>
 
 <style>

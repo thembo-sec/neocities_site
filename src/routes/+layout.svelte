@@ -81,6 +81,7 @@
 			slotTrail="place-content-end"
 			slotDefault="place-content-evenly"
 			gridColumns="grid-cols-3"
+			background="bg-surface-200-700-token"
 		>
 			<svelte:fragment slot="lead">
 				<button
