@@ -11,6 +11,11 @@ date: '2024-09-25'
 edited: '2024-09-26'
 ---
 
+<script lang="ts">
+  import Youtube from "svelte-youtube-embed";
+</script>
+
+
 # Fun Things
 
 ## The motel room or on datedness
@@ -73,6 +78,8 @@ Just absolutely \**chefs kiss*\*.
 Bliss Foster is a fashion journalist and video essayist, who's work often focuses cultural context for fashion designs and runways. His content was another friend recommendation, and after furiously consuming as much of his work as I could in a short time frame I would really describe him as a huge fashion dork (incredibly complimentary). Him and his wife do excellent coverage of Paris Fashion Week through, and its so much fun seeing how excited he gets about the shows, often interviewing various designers and diving into the smallest details of their work and design philosophies. 
 
 Highly recommend his piece, [When Personal Style isn't Personal](https://www.youtube.com/watch?v=fte990ZFF4E), which dives into how we think about personal style and what that really means in the context of the broader fashion industry. Additionally, his series diving into *all* of the Maison Margiela runways is fascinating.
+
+<Youtube id="fte990ZFF4E" />
 
 ## Dracula's Ex Girlfriend
 

@@ -1,6 +1,6 @@
 <script lang="ts">
     import { img } from "$lib/components";
-    export {img};
+    export { img };
 </script>
 
-<slot/>
+<slot />

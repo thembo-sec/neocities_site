@@ -49,6 +49,6 @@
 
 	h1 + p {
 		margin-top: 1em;
-		margin-bottom: 0.5em;
+		margin-bottom: 0.1em;
 	}
 </style>
