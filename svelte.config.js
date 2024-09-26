@@ -17,6 +17,9 @@ const mdsvexOptions = {
 			const html = escapeSvelte(highlighter.codeToHtml(code, { lang, theme: 'poimandres' }))
 			return `{@html \`${html}\` }`
 		}
+	},
+	layout: {
+		_: './src/mdsvex.svelte'
 	}
 }
 
