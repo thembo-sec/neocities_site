@@ -8,7 +8,7 @@ categories:
   - gender
 published: true
 date: '2024-09-25'
-edited: '2024-09-26'
+edited: '2024-09-30'
 ---
 
 <script lang="ts">
@@ -29,7 +29,7 @@ Kate Wagner, the author of McMansion Hell, writes a lot about architectural theo
 ## Taste and how to develop it
 
 
-Friend asked me about developing taste the other day and I was a bit stumped on how to answer it. I ended up asking them what they liked, and then asked them if they'd thought about why they liked it and what common threads tied their interests and likes together. I don't think that was a very adequate answer, i was mainly flabbergasted that someone thought I had good taste, good enough to ask me how they could get better taste even!
+A friend asked me about developing taste the other day and I was a bit stumped on how to answer it. I ended up asking them what they liked, and then asked them if they'd thought about why they liked it and what common threads tied their interests and likes together. I don't think that was a very adequate answer, i was mainly flabbergasted that someone thought I had good taste, good enough to ask me how they could get better taste even!
 
 A few days later, I happened to come across an instagram post by Ruby Thelot, an academic working at NYU. It piqued my interest, and on scanning his other writing, I came across an article he'd written called *How to Develop Taste*. It makes for a delightfully tongue in cheek read, breaking it down into 10 steps, that - while humorous - carry genuinely good advice on how to develop and understand your own taste. There's some serendipity to stumbling upon this given that part of my writing is exercising my own critical thinking and understanding of the things I like.
 
@@ -64,7 +64,7 @@ Articles of note that I really enjoyed:
 
 Alex Temple is a composer who's musical work i'm not overly familiar with, but a friend recommended checking out some of her writing after they read my blog on [gender](/gender).
 
-The interview covers a whole swathe of topics, though the portion on interpreting lyrics of songs that mention teeth is incredible and deeply unsettling in the best kind of way. They also discuss trans art, which has introduced me to a bunch of new media I have now added to my ever growing list of 'things I need to check out when I have time'. [The interview can be found here.](https://hypocritereader.com/98/alex-temple).
+The interview covers a whole swathe of topics, though the portion on interpreting lyrics of songs that mention teeth is incredible and deeply unsettling in the best kind of way. They also discuss trans art, which has introduced me to a bunch of new media I have now added to my ever growing list of 'things I need to check out when I have time'. [The interview can be found here.](https://hypocritereader.com/98/alex-temple)
 
 She also a blog on her person website, which while it hasn't been updated in while contains some absolute fucking gems.
 

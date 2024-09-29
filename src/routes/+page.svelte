@@ -17,6 +17,7 @@
 	const paths = import.meta.glob("/src/posts/*.md", { eager: true });
 
 	for (const path in paths) {
+		
 		const file = paths[path];
 
 		const slug = path.split("/").at(-1)?.replace(".md", "");
@@ -40,33 +41,33 @@
 
 <section>
 	<div class="content">
-	<ul class="posts p-10">
-		{#each posts as post}
-			{#if post.published == true && (tags == "" || post.categories.some((tag) => tag === tags))}
-				<li class="post">
-					<div class="container h-1/2 mx-auto flex items-center">
-						<a href={post.slug} class="h2">{post.title}</a>
-					</div>
-					<p class="date">{formatDate(post.date)}</p>
-					<p class="description">{post.description}</p>
-					{#each post.categories as category}
-						<button
-							class="chip variant-filled-primary hover:variant-filled-secondary"
-							on:click={() => filterTags(category)}
-						>
-							{#if category === tags}
-								<span>⤫</span>
-								<span></span>
-							{/if}
-							#{category}
-						</button>
-					{/each}
-					<hr class="dashed" />
-				</li>
-			{/if}
-		{/each}
-	</ul>
-</div>
+		<ul class="posts p-10">
+			{#each posts as post}
+				{#if post.published == true && (tags == "" || post.categories.some((tag) => tag === tags))}
+					<li class="post">
+						<div class="container h-1/2 mx-auto flex items-center">
+							<a href={post.slug} class="h2">{post.title}</a>
+						</div>
+						<p class="date">{formatDate(post.date)}</p>
+						<p class="description">{post.description}</p>
+						{#each post.categories as category}
+							<button
+								class="chip variant-filled-primary hover:variant-filled-secondary"
+								on:click={() => filterTags(category)}
+							>
+								{#if category === tags}
+									<span>⤫</span>
+									<span></span>
+								{/if}
+								#{category}
+							</button>
+						{/each}
+						<hr class="dashed" />
+					</li>
+				{/if}
+			{/each}
+		</ul>
+	</div>
 </section>
 
 <style>
