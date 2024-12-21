@@ -16,8 +16,8 @@
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
 		<p>
-			Posts are tagged, these don't do anything yet. One day i'll get around to fixing that. They
-			will probably be a mix of tech/fashion/personal commentary.
+			Posts are tagged, this does something now. Clicking on a tag will filter for posts with that 
+			tag.
 		</p>
 
 		<p>
