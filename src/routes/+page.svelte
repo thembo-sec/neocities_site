@@ -72,7 +72,7 @@
 <style>
 	.posts {
 		display: grid;
-		gap: 2rem;
+		gap: 3rem;
 	}
 
 	.post {
