@@ -53,15 +53,17 @@ R = TypeVar("R")
 
 type Lambda = Callable[[T], R]
 
-def flipFlop(input: Iterable[T], a: Lambda, b: Lambda) -> Iterator[bool]: 
+def flipFlop(input: Iterable[T], a: Lambda, b: Lambda) -> Iterator[Tuple[bool, T]]: 
+    
     t = False
 
-    for i in input:
-        
+    for i in input:   
         if not t and a(i):
+            
             t = True
         
         if t and b(i):
+            
             t = False
             yield t, i
 
