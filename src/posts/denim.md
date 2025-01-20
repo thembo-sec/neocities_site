@@ -11,7 +11,7 @@ published: true
 
 I recently reentered the world of raw denim. I've dived into the indigo pool of obsession and absorbed the dye until i'm ready to be faded into perfection. Like a lost lamb, i've found my way back, guided by a lovely pair. Constructed from a deadstock 14.5oz double black selvedge, they fit me incredibly well. 
 
-I picked them up for a bargain, less than half price! Their are pair of the Nudie Jeans Clean Eileen cut, which are a higher waisted pant that has a SENSIBLE FUCKING RIVET (see the picture at the bottom) that doesn't have the annoying nipple that catches on skin. Also nudie has a lifetime free repair program on any pair of their jeans which is just fucking awesome if you ask me. 
+I picked them up for a bargain, less than half price! Theyre are pair of the Nudie Jeans Clean Eileen cut, which are a higher waisted pant that has a SENSIBLE FUCKING RIVET (see the picture at the bottom) that doesn't have the annoying nipple that catches on skin. Also nudie has a lifetime free repair program on any pair of their jeans which is just fucking awesome if you ask me. 
 
 A decade ago, back when I was still a guy, raw denim was really my first introduction into the garment construction and i suppose fashion as a whole. I can't say my fashion was good, but i think it gave me that irritating view that garments should be well constructed and the best ones tell a story.
 
