@@ -27,6 +27,8 @@ For various economic reasons (seriously, go read Ametora by W. D. Marx.), the se
 
 # I think my denims gone a little stale...
 
-The downside of this obsession with tradition, is that innovation can sometimes get swallowed up. Many raw denim pants are (in my humble opinion), truly timeless.
+The downside of this obsession with tradition, is that innovation can sometimes get swallowed up. Many raw denim pants are (in my humble opinion) fairly timeless in style, but they are timeless in the sence that they have changed fairly little. There is something to be said for designs and manufacturers that are trend immune, but many of these interpretations on older fits are simply not that comfortable or usable. Low rises and tight crotch allowances mean that the pants often experience crotch blowouts. It means limited range of motion for those who are more active.
 
-![a denim rivet that kind of looks like a nipple](/images/nudienip.jpg)
+The fades are always the same type, combs, stacks, whiskers on the same fits. What about fades on climbing pants, or from skating in fits that would offer better movement?? Higher rise, wider fit raw denim pants seem to be the bigfoot of the raw denim world.
+
+![a denim rivet that kind of looks like a nipple](../../static/images/nudienip.jpg)

@@ -6,6 +6,7 @@ import type { Plugin, ResolvedConfig } from 'vite';
 import path from 'path';
 import fm from 'yaml-front-matter';
 import fs from 'fs-extra';
+import { enhancedImages } from '@sveltejs/enhanced-img';
 
 
 /**  
@@ -85,5 +86,5 @@ function writeRss(): Plugin {
 
 
 export default defineConfig({
-	plugins: [sveltekit(), purgeCss(), writeRss()]
+	plugins: [sveltekit(), purgeCss(), writeRss(), enhancedImages()]
 });

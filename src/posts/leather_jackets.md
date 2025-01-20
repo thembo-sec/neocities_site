@@ -22,4 +22,4 @@ anyway, the music was certainly experimental. The first person on was using a la
 
 ### The fit in qestion
 
-![an androgynous person wearing multiple layers of draped black clothing](/images/fit.jpg)
+![an androgynous person wearing multiple layers of draped black clothing](../../static/images/fit.jpg)
