@@ -45,6 +45,7 @@ Apparently there's a running joke at the conference about the Flip Floperator, w
 Anyway, a friend I made at the conference told me I should have a crack at an implementation while I was bored at the airport. Here's mine:
 
 ```python
+
 from collections.abc import Callable, Iterator
 from typing import TypeVar, Iterable
 
