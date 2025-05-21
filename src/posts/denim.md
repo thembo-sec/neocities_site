@@ -2,7 +2,7 @@
 title: Denim
 description: These jeans aren't even soft! Sometimes things that are more expensive, are worse.
 categories: [fashion, jeans]
-date: '2025-08-11'
+date: '2025-01-08'
 edited: '2025-05-21'
 published: true
 ---
