@@ -16,12 +16,15 @@
 			<li><a href="https://neocities.org">Neocities</a></li>
 		</ul>
 		<p>
-			Posts are tagged, this does something now. Clicking on a tag will filter for posts with that 
+			Posts are tagged, this does something now. Clicking on a tag will filter for posts with that
 			tag.
 		</p>
 
 		<p>
-			This site also has an rss feed at <a href="https://scylla.neocities.org/rss.xml">/rss.xml</a>
+			This site also has an rss feed at <a
+				href="https://scylla.neocities.org/rss.xml"
+				data-sveltekit-preload-data="off">/rss.xml</a
+			>
 		</p>
 	</div>
 </div>
