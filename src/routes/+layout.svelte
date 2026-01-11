@@ -56,6 +56,17 @@
 		>
 			<span>Posts</span>
 		</AppRailAnchor>
+
+		<AppRailAnchor
+			bind:group={currentTile}
+			selected={$page.url.pathname === '/links'}
+			name="links-tile"
+			value={2}
+			href="/links"
+		>
+			<span>Links</span>
+		</AppRailAnchor>
+
 		<svelte:fragment slot="trail">
 			<AppRailAnchor
 				bind:group={currentTile}
