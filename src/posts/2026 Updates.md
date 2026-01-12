@@ -25,7 +25,7 @@ I've got a lot more thoughts about it kicking around in my head but I'm finding 
 
 ## Balance
 
-I find it difficult to balance and separate the things happening in my life. This has worsened over the last year or two. I'm supposed to be starting my master's program this year, while also likely having my acting position at work made permanent, working through the impacts of constant health scares, and generally being in survival mode for a few years. To say I'm tired and burnt out would be an understatement. It doesn't help that i'm bored out of my fucking mind at work at the moment, though job hunting is also teriffying as I feel like my brain isn't working at the level i want it to be.
+I find it difficult to balance and separate the things happening in my life. This has worsened over the last year or two. I'm supposed to be starting my master's program this year, while also likely having my acting position at work made permanent, working through the impacts of constant health scares, and generally being in survival mode for a few years. To say I'm tired and burnt out would be an understatement. It doesn't help that i'm bored out of my fucking mind at work at the moment, though job hunting is also terrifying as I feel like my brain isn't working at the level i want it to be.
 
 This isn't so much a commitment to balance, I just really want to be better at figuring how I'm feeling so I can tell people what I need and want.
 
