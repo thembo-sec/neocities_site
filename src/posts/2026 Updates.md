@@ -1,7 +1,7 @@
 ---
 title: 2026 Updates
 description: A collection of life things i've been thinking about going into the new year
-categories: [updates]
+categories: [updates, gender]
 date: '2026-01-12'
 edited: '2026-01-12'
 published: true
