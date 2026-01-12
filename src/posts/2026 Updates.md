@@ -41,6 +41,7 @@ I've also started trying to absorb as much work from other photographers I like.
 
 ![A black and white photo of someone reading in a chair photographed via reflection](../../static/images/04.jpg)
 ![A black and white photo of a child touching a pool of water](../../static/images/18.jpg)
+![A colour photo of pigeons scattering after being disturbed](../../static/images/F1110035.jpg)
 
 
 ## Friends
