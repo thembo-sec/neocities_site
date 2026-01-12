@@ -39,6 +39,10 @@ I continue to dive down the photography rabbit hole. With the help of my dad, I'
 
 I've also started trying to absorb as much work from other photographers I like. Recently I picked up *HK:PM* from Greg Girard. It's a collection of photos of Hong Kong over a 10 year period in the 70s/80s and it's gorgeous. Cyberpunk before it was cyberpunk. Some of the photos i've taken over the last year can be found below.
 
+![A black and white photo of someone reading in a chair photographed via reflection](../../static/images/04.jpg)
+![A black and white photo of a child touching a pool of water](../../static/images/18.jpg)
+
+
 ## Friends
 
 I consider myself extraordinarily lucky to have the people in my life that I do. Plus I'm slowly learning that they like me as a person and not just for my dumb jokes and cunty cheekbones (see that was using irony to diffuse vulnerability). It's strange to think of myself as a person people actively enjoy spending time with, but i can't begin to articulate how nice it has been. It also serves as a reminder to tell my friends how glad I am to know them, especially ones who i don't see as often as i'd like due to things like distance and time. I suspect at least one of my interstate friends reads these, so if you do, I can't wait to give you a hug in August.
