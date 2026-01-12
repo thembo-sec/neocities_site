@@ -37,6 +37,8 @@ So I mentioned starting shots, which have been great (also my boobs got bigger, 
 
 I continue to dive down the photography rabbit hole. With the help of my dad, I've recently learnt to develop my own film. It's a really nice experience and the negatives hanging in the bathroom is kind of a vibe. So I'm just churning through rolls of film, shoutout tmax400 tbh.
 
+A big chunk of it has been helping my memory, but it's also been a way to document all the little things happening in my life and my relationship. I often find myself revisiting the photos I have of the small moments with my partner; reading, laughing, doing chores. Little reminders of living a life together.
+
 I've also started trying to absorb as much work from other photographers I like. Recently I picked up *HK:PM* from Greg Girard. It's a collection of photos of Hong Kong over a 10 year period in the 70s/80s and it's gorgeous. Cyberpunk before it was cyberpunk. Some of the photos i've taken over the last year can be found below.
 
 ![A black and white photo of someone reading in a chair photographed via reflection](../../static/images/04.jpg)
