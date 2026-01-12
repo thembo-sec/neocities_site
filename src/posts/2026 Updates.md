@@ -9,7 +9,7 @@ published: true
 
 # Life updates and thoughts
 
-So its the new year, and which is a good time for introspection. To be fair i don't need an excuse to introspect, ruminate, and overthink things, but hey if i'm doing it already might as well say its because of the new year.
+So its the new year, which is a good time for introspection. To be fair i don't need an excuse to introspect, ruminate, and overthink things, but hey if i'm doing it already might as well say its because of the new year.
 
 ## New Pronouns Just Dropped???? 🔥🔥🔥🔥
 
