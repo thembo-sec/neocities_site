@@ -46,7 +46,7 @@ I've also started trying to absorb as much work from other photographers I like.
 
 ## Friends
 
-I consider myself extraordinarily lucky to have the people in my life that I do. Plus I'm slowly learning that they like me as a person and not just for my dumb jokes and cunty cheekbones (see that was using irony to diffuse vulnerability). It's strange to think of myself as a person people actively enjoy spending time with, but i can't begin to articulate how nice it has been. It also serves as a reminder to tell my friends how glad I am to know them, especially ones who i don't see as often as i'd like due to things like distance and time. I suspect at least one of my interstate friends reads these, so if you do, I can't wait to give you a hug in August.
+I consider myself extraordinarily lucky to have the people in my life that I do. Plus I'm slowly learning that they like me as a person and not just for my dumb jokes and cunty cheekbones (see that was using irony to difuse vulnerability). It's strange to think of myself as a person people actively enjoy spending time with, but i can't begin to articulate how nice it has been. It also serves as a reminder to tell my friends how glad I am to know them, especially ones who i don't see as often as i'd like due to things like distance and time. I suspect at least one of my interstate friends reads these, so if you do, I can't wait to give you a hug in August.
 
 ## Closing thoughts
 
