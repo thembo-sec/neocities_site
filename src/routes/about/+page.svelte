@@ -24,7 +24,7 @@
 			<p>
 				This site also has an rss feed at <a
 					href="https://scylla.neocities.org/rss.xml"
-					data-sveltekit-reload="off">/rss.xml</a
+					data-sveltekit-reload>/rss.xml</a
 				>
 			</p>
 		</div>
