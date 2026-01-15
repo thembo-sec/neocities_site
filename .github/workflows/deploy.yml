@@ -26,6 +26,8 @@ jobs:
       run: |
         npm i
         npm run build
+    - name: Copy rss to build
+      run: |
         cp static/rss.xml build/rss.xml
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
