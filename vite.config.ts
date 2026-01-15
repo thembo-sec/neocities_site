@@ -53,6 +53,7 @@ function writeRss(): Plugin {
 		},
 		writeBundle() {
 			const filePath = path.resolve(config.root, 'static', 'rss.xml');
+   const buildPath = path.resolve(config.root, 'build', 'rss.xml');
 
 			const xml = `
 				<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
@@ -80,6 +81,9 @@ function writeRss(): Plugin {
 
 			fs.ensureFileSync(filePath);
 			fs.writeFile(filePath, xml);
+
+   fs.ensureFileSync(buildPath);
+   fs.writeFile(buildPath, xml);
 		}
 	}
 }
