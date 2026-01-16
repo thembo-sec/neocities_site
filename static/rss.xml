@@ -4,20 +4,28 @@
 						<description>Random Thoughts</description>
 						<link>https://scylla.neocities.org</link>
 						<atom:link href="https://scylla.neocities.org/rss.xml" rel="self" type="application/rss+xml"/>
+				
+								<item>
+									<title>2026 Updates</title>
+									<description>A collection of life things i've been thinking about going into the new year</description>
+									<link>https://scylla.neocities.org/2026%20Updates</link>
+									<guid isPermaLink="true">https://scylla.neocities.org/2026%20Updates</guid>
+									<pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+								</item>
 						
 								<item>
 									<title>Cameras</title>
 									<description>Filling in the gaps in my memory with photos</description>
-									<link>https://scylla.neocities.org/undefined</link>
-									<guid isPermaLink="true">https://scylla.neocities.org/undefined</guid>
+									<link>https://scylla.neocities.org/camera</link>
+									<guid isPermaLink="true">https://scylla.neocities.org/camera</guid>
 									<pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
 								</item>
 							
 								<item>
 									<title>Denim</title>
 									<description>These jeans aren't even soft! Sometimes things that are more expensive, are worse.</description>
-									<link>https://scylla.neocities.org/undefined</link>
-									<guid isPermaLink="true">https://scylla.neocities.org/undefined</guid>
+									<link>https://scylla.neocities.org/denim</link>
+									<guid isPermaLink="true">https://scylla.neocities.org/denim</guid>
 									<pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
 								</item>
 							
