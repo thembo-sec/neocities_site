@@ -1,5 +1,6 @@
 ---
 title: Things I liked recently - September
+filename: Stuff I Like - September
 description: A collection of stuff i've liked in the month of september
 categories:
   - articles

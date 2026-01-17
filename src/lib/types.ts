@@ -4,6 +4,7 @@ export type Post = {
     title: string,
     categories: Categories[]
     description: string
+    filename: string
     slug: string
     date: string
     edited: string

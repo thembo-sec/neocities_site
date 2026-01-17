@@ -1,5 +1,6 @@
 ---
 title: Pycon 2024
+filename: pycon2024
 description: I gave a pycon talk on how to create methods out of nothing. I'm like a python alchemist!
 categories: [code, tech]
 date: '2024-12-23'

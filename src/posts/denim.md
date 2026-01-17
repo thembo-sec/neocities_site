@@ -1,5 +1,6 @@
 ---
 title: Denim
+filename: denim
 description: These jeans aren't even soft! Sometimes things that are more expensive, are worse.
 categories: [fashion, jeans]
 date: '2025-01-08'

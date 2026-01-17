@@ -1,5 +1,6 @@
 ---
 title: Cameras
+filename: camera
 description: Filling in the gaps in my memory with photos
 categories: [photography]
 date: '2025-11-20'

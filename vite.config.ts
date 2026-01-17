@@ -35,6 +35,7 @@ function writeRss(): Plugin {
 			categories: content.categories,
 			date: content.date,
 			slug: content.slug,
+			filename: content.filename,
 			edited: content.edited,
 			published: content.published
 		};
@@ -68,8 +69,8 @@ function writeRss(): Plugin {
 								<item>
 									<title>${post.title}</title>
 									<description>${post.description}</description>
-									<link>https://scylla.neocities.org/${post.slug}</link>
-									<guid isPermaLink="true">https://scylla.neocities.org/${post.slug}</guid>
+									<link>https://scylla.neocities.org/${post.filename}</link>
+									<guid isPermaLink="true">https://scylla.neocities.org/${post.filename}</guid>
 									<pubDate>${new Date(post.date).toUTCString()}</pubDate>
 								</item>
 							`

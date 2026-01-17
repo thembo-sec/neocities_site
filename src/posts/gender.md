@@ -1,5 +1,6 @@
 ---
 title: Gender? I hardly know her!
+filename: gender
 description: Gender is weird, and I don't really vibe with being called transgender.
 categories: [gender]
 date: '2024-09-10'

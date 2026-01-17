@@ -1,5 +1,6 @@
 ---
 title: Building my blog
+filename: writing
 description: Blog post about putting together a blog. Both the why and the how.
 categories: [code]
 date: '2024-08-31'

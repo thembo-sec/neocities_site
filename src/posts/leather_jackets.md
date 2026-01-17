@@ -1,5 +1,6 @@
 ---
 title: Leather Jackets and patched jeans
+filename: leather_jackets
 description: I saw a bunch of punks at a show and then I thought too hard about clothing
 categories: [fashion]
 date: '2024-09-02'
