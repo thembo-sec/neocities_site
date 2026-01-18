@@ -14,7 +14,7 @@
 					</li>
 					<li><a href="https://garthrey.neocities.org/">Garthrey, cool bike, cool person.</a></li>
 					<li><a href="https://mause.me">Elli, all round gem of a human and python nerd</a></li>
-					<li><a href="thescreamingwall.com">Canberra based photographer, great zines</a></li>
+					<li><a href="https://thescreamingwall.com">Canberra based photographer, great zines</a></li>
 				</ul>
 
 				<p>
