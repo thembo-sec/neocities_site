@@ -39,8 +39,12 @@ function writeRss(): Plugin {
 			edited: content.edited,
 			published: content.published
 		};
-		
+
 		posts.push(post);
+
+		posts = posts.sort(
+			(first, second) => new Date(second.date).getTime() - new Date(first.date).getTime()
+		);
 
 	})
 

@@ -8,7 +8,7 @@
 			<h1 class="h1">About</h1>
 			<p>Hello, I'm ash (they/she).</p>
 			<p>
-				I Needed a spot to throw shit when I felt like putting it in a public place. The code is
+				I needed a spot to throw shit when I felt like putting it in a public place. The code is
 				available on my github. This website is currently built using a combination of:
 			</p>
 			<ul class="list">
