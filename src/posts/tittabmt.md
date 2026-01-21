@@ -10,7 +10,7 @@ edited: '2026-01-21'
 
 # Moving my body through time
 
-This book makes me feel less alone whenever I read it.
+This book makes me feel less alone whenever I read it. The first time I read it I was on a plane back home, rapidly realising how alone I felt in the relationship I was in at the time. The book, a gift from one of my closest friends I had just seen for the first time in years, was a significant comfort.
 
 Whenever I open it, i want to start highlighting portions of it, quoting them, but quickly come to realise that I would simply end up writing most of the book down, word for word. Its warm, reading it feels like a slow summer afternoon on a day that is hot but not *too* hot.
 
