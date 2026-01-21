@@ -12,11 +12,11 @@ edited: '2026-01-21'
 
 This book makes me feel less alone whenever I read it.
 
-Whenever I open it, i want to start highlighting portions of it, quoting them, but quickly come to realise that I would simply end up writing most of the book word for word down. Its warm, reading it feels like a slow summer afternoon on a day that is hot but not *too* hot.
+Whenever I open it, i want to start highlighting portions of it, quoting them, but quickly come to realise that I would simply end up writing most of the book down, word for word . Its warm, reading it feels like a slow summer afternoon on a day that is hot but not *too* hot.
 
 > Hey, I live in a house with a door!
 
-I am reminded of my urge to share my small experiences of the world, like the child, so excited to share theirs. To write, to photograph, to share these things with the people around me. *Time is a Thing* feels like it encapsulates so many possible forms of intimacy in a way that is almost aspirational.
+I am reminded of my urge to share my small experiences of the world, like the child, so excited to share theirs. To write, to photograph, to share the intimacy of these things with the people around me, almost desperately. *Time is a Thing* feels like it encapsulates so many possible forms of intimacy in a way that is almost aspirational.
 
 ## Bodies like mine
 
