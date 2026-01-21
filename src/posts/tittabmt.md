@@ -16,7 +16,7 @@ Whenever I open it, i want to start highlighting portions of it, quoting them, b
 
 > Hey, I live in a house with a door!
 
-I am reminded of my urge to share my small experiences of the world, like the child, so excited to share theirs. *Time is a Thing* feels like it encapsulates so many possible forms of intimacy in a way that is almost aspirational.
+I am reminded of my urge to share my small experiences of the world, like the child, so excited to share theirs. To write, to photograph, to share these things with the people around me. *Time is a Thing* feels like it encapsulates so many possible forms of intimacy in a way that is almost aspirational.
 
 ## Bodies like mine
 
