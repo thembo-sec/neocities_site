@@ -24,7 +24,7 @@ The first time I read this book was possibly one of the first times I felt truly
 
 > One of the reasons I’m thinking about this is that I’m not supposed to be next to anyone, in the sense that I never knew people like me existed, so I never imagined myself next to someone or not.
 
-I've read quite a bit of literature from queer and trans authors, but very little of it has felt like the experiences portrayed contained within have mirrored my own. So much of my life - especially post transition - has come with this sense of 'other'. The way people treat me is often informed by my transness more than anything else.
+I've read quite a bit of literature from queer and trans authors, but very little of it has felt like the experiences portrayed within have mirrored my own. So much of my life - especially post transition - has come with this sense of 'other'. The way people treat me is often informed by my transness more than anything else.
 
 > The way people react, I know that they are thinking about what they would call my gender and, in the way most people find gender and bodies to be irredicibly the same, that they are thinking also of my body, ... I know that when I am talking to a large group of people, in their heads are odd confusions about me, and that when I am talking on-on-one, a slight nervousness sometimes - the fear that they will say the wrong thing, and their language will reveal how they see me.
 
