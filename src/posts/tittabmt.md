@@ -12,7 +12,7 @@ edited: '2026-01-21'
 
 This book makes me feel less alone whenever I read it.
 
-Whenever I open it, i want to start highlighting portions of it, quoting them, but quickly come to realise that I would simply end up writing most of the book down, word for word . Its warm, reading it feels like a slow summer afternoon on a day that is hot but not *too* hot.
+Whenever I open it, i want to start highlighting portions of it, quoting them, but quickly come to realise that I would simply end up writing most of the book down, word for word. Its warm, reading it feels like a slow summer afternoon on a day that is hot but not *too* hot.
 
 > Hey, I live in a house with a door!
 
