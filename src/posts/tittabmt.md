@@ -32,4 +32,6 @@ The quick glances at my chest while saying 'he, sorry, she, sorry, they'. Referr
 
 *"I can see we are all scared by what we aren't saying"*.
 
-Its a strange thing, to feel so powerless in these situations and yet see people are scared of how they interact with you.
+Its a strange thing, to feel so powerless in these situations and yet see people are scared of how they interact with you. *Time* manages to encapsulate this feeling through such beautiful prose that its hard not to feel deeply emotional each time I read it. And yet it expresses the experience of becoming with such unrelenting joy that it aches.
+
+> If I am adding myself to the crowd of people who write, I would like it sometimes to be me when I am warm. I would like people to know that I am happy, sometimes.
