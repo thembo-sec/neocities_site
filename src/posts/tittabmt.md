@@ -24,11 +24,11 @@ The first time I read this book was possibly one of the first times I felt truly
 
 > One of the reasons I’m thinking about this is that I’m not supposed to be next to anyone, in the sense that I never knew people like me existed, so I never imagined myself next to someone or not.
 
-I've read quite a bit of literature from queer and trans authors, but very little of it has felt like the experiences portrayed within have mirrored my own. So much of my life - especially post transition - has come with this sense of 'other'. The way people treat me is often informed by my transness more than anything else.
+I've read quite a bit of literature from queer and trans authors, but very little of it has felt like the experiences portrayed within have mirrored my own. So much of my life - especially post transition - has come with this sense of 'other'. The way people treat me, at least before they get to know me, is often informed by my transness more than anything else.
 
 > The way people react, I know that they are thinking about what they would call my gender and, in the way most people find gender and bodies to be irredicibly the same, that they are thinking also of my body, ... I know that when I am talking to a large group of people, in their heads are odd confusions about me, and that when I am talking on-on-one, a slight nervousness sometimes - the fear that they will say the wrong thing, and their language will reveal how they see me.
 
-The quick glances at my chest while saying 'he, sorry, she, sorry, they'. Referring to me only by name to avoid using pronouns and opening themselves up to mistake and possible critique (im so tired and rarely bother to correct people these days). Hookups questioning their own sexualities and genders after fucking. "Why do you get to look like that when you don't even want to be a woman" one asks.
+The quick glances at my chest while saying 'he, sorry, she, sorry, they'. Referring to me only by name to avoid using pronouns and opening themselves up to mistake and possible critique (im so tired and rarely bother to correct people these days). Hookups questioning their own sexualities and genders after fucking. "Why do you get to look like that when you don't even want to be a woman" one asks, I quickly cover my body in an attempt to alleviate the dysphoria she experiences looking at it.
 
 *"I can see we are all scared by what we aren't saying"*.
 
