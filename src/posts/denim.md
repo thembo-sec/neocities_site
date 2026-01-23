@@ -12,11 +12,13 @@ published: true
 
 I recently reentered the world of raw denim. I've dived into the indigo pool of obsession and absorbed the dye until i'm ready to be faded into perfection. Like a lost lamb, i've found my way back, guided by a lovely pair. Constructed from a deadstock 14.5oz double black selvedge, they fit me incredibly well. 
 
-I picked them up for a bargain, less than half price! Theyre are pair of the Nudie Jeans Clean Eileen cut, which are a higher waisted pant that has a SENSIBLE FUCKING RIVET (see the picture at the bottom) that doesn't have the annoying nipple that catches on skin. Also nudie has a lifetime free repair program on any pair of their jeans which is just fucking awesome if you ask me. 
+I picked them up for a bargain, less than half price! Theyre are pair of the Nudie Jeans Clean Eileen cut, which are a higher waisted pant that has a SENSIBLE FUCKING RIVET (see the picture below) that doesn't have the annoying nipple that catches on skin. Also nudie has a lifetime free repair program on any pair of their jeans which is just fucking awesome if you ask me. 
 
-A decade ago, back when I was still a guy, raw denim was really my first introduction into the garment construction and i suppose fashion as a whole. I can't say my fashion was good, but i think it gave me that irritating view that garments should be well constructed and the best ones tell a story.
+![a denim rivet that kind of looks like a nipple](../../static/images/nudienip.jpg)
 
-Now there has been thousands of articles written about raw denim, whole subcultures have developed out of it. Hell there's even a [worldwide fading competition](https://indigoinvitational.com/) dedicated to getting the best fades out of a pair. I don't think there's much I can add to that overall body of work, but its nice to remember a little part of myself i had forgotten about from a previous version of me. 
+A decade ago, back when I was still a guy, raw denim was really my first introduction into garment construction and i suppose fashion as a whole. I can't say my fashion was good, but i think it gave me that irritating view that garments should be well constructed and the best ones tell a story.
+
+Now there are been thousands of articles written about raw denim, whole subcultures have developed out of it. Hell there's even a [worldwide fading competition](https://indigoinvitational.com/) dedicated to getting the best fades out of a pair. I don't think there's much I can add to that overall body of work, but its nice to remember a little part of myself i had forgotten about from a previous version of me. 
 
 ## Sous vide denim
 
@@ -32,7 +34,7 @@ The downside of this obsession with tradition, is that innovation can sometimes 
 
 The fades are always the same type, combs, stacks, whiskers on the same fits. What about fades on climbing pants, or from skating in fits that would offer better movement?? Higher rise, wider fit raw denim pants seem to be the bigfoot of the raw denim world. 
 
-There's a great (William Gibson interview)[https://www.heddels.com/2015/03/william-gibson-interview-buzz-rickson-line-tech-wear-limits-authenticity/] where he explains that 'Authenticity' doesn't mean much, favouring functionality and durability. And here's the rub, most raw denims aren't that functional. Look at the fades and you rarely see anyone using the front pockets (because inserting your hand would remove all skin given the weight and tightness of the fabric). How many blue collar workers do you see pulling on a pair of Iron Hearts?
+There's a great [William Gibson interview](https://www.heddels.com/2015/03/william-gibson-interview-buzz-rickson-line-tech-wear-limits-authenticity/) where he explains that 'Authenticity' doesn't mean much, favouring functionality and durability. And here's the rub, most raw denim jeans aren't that functional. Look at the fades and you rarely see anyone using the front pockets (because inserting your hand would remove all skin given the weight and tightness of the fabric). How many blue collar workers do you see pulling on a pair of Iron Hearts?
 
 ## Hunting for Fresh Denim
 
@@ -42,4 +44,3 @@ I'm writing this because i'm considering entering the Indigo Invitational this y
 
 So I guess I gotta learn to sew...
 
-![a denim rivet that kind of looks like a nipple](../../static/images/nudienip.jpg)
