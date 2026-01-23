@@ -95,5 +95,5 @@ function writeRss(): Plugin {
 
 
 export default defineConfig({
-	plugins: [sveltekit(), purgeCss(), writeRss(), enhancedImages()]
+	plugins: [sveltekit(), purgeCss(), {...writeRss(), enforce: 'pre'}, enhancedImages()]
 });
