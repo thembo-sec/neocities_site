@@ -11,9 +11,9 @@ import { createHighlighter } from 'shiki';
 const mdsvexOptions = {
 	remarkPlugins: [enhancedImages,
 		{
-		  resolve: defaultResolverFactory((path) =>
-			join('src', 'assets', 'images', path)
-		  )
+			resolve: defaultResolverFactory((path) =>
+				join('static', 'images', path)
+			)
 		}],
 	extensions: ['.md'],
 	highlight: {
