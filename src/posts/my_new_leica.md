@@ -22,4 +22,4 @@ My aversion to digital is also partly because I have a great distaste for editin
 
 A few weeks ago, after a particularly shitty week, I purchased a cheap Yashica YL rangefinder from an op shop ($30, a bargain!).
 
-![A camera in hand](../../static/images/yash1.jpeg?w=200) ![A camera in hand](../../static/images/yash2.jpeg?w=200)
+![A camera in hand](../../static/images/yash1.jpeg?fit=contain;) ![A camera in hand](../../static/images/yash2.jpeg?)
