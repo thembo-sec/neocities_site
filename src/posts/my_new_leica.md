@@ -18,7 +18,7 @@ However, the cost of film continues to climb (especially with the rapidly increa
 
 My aversion to digital is also partly because I have a great distaste for editing. My monitor isn't well calibrated (and to do so requires tools), and part of the reason I love photography as a hobby is that it reduced my time in front of a screen... Editing requires significant screen time to both learn properly and do.
 
-# Dipping a toe
+## Dipping a toe
 
 A few weeks ago, after a particularly shitty week, I purchased a cheap Yashica YL rangefinder from an op shop ($30, a bargain!).
 
@@ -30,6 +30,17 @@ A combination of film slowing me down and forcing me to consider my compositions
 
 (add piccies)
 
-# Gear Acquisition Syndrome
+## Gear Acquisition Syndrome
 
-Gear acquisition syndrome is an in joke in many hobbyist circles. It implies that the sufferer enjoys collecting and purchasing new items more than the usage of them, or that the next thing will be the game changer (spoiler: it rarely is). There is never going to be a single piece of kit that uplifts a hobby to knew heights through an improvement in performance.
+Gear acquisition syndrome is an in joke in many hobbyist circles. It implies that the sufferer enjoys collecting and purchasing new items more than the usage of them, or that the next thing will be the game changer (spoiler: it rarely is). There is rarely, if ever, going to be a new piece of equipment that slightly outperforms the old one that uplifts your experience of a practice to new heights. Higher megapixel counts, IBIS, a faster/sharper lens... None of these will make me a better photographer. Car enthusiasts like to say that often the best modification you can do is 'driver mod', which basically means get better at driving before you consider upgrading your car.
+
+With that in mind, I *don't* think that purchasing new equipment is inherently bad, even if you haven't extracted every last ounce out of your existing kit. After experiencing the joy of shooting film with a rangefinder, and in the context of wanting to spend less on it, I made the very sensible financial decision to purchase an older, very beat up, Leica M-P Typ 240. I've named her Emma. An objectively worse camera than anything else i could spend the same money on equipment wise.
+
+My conclusion i've kind of reached with gear is that you should own the things that make you _want_ to use them, and dear god does this camera make me want to carry it with me all day and hit that shutter button until it stops working.
+
+## Enjoyment
+
+So when I think about what I enjoy about film, and how I can get that experience in other ways, while also imposing similar limitations on myself, the only option is really Leica (please someone make a digital camera like them but cheaper). Sure I could adapt some of my manual lenses to a fuji or sony body, but then the temptation to spend more time diving into menus and fiddling is going to be there. And I know myself well enough that if I have the opportunity to fiddle, i'll spend all day doing it until I hate what the object represents. 
+
+I think arguments about specifications completely miss the point for anyone other than professionals who actually see the benefits from expanded and improved feature sets. I'm not a professional photographer and i don't want to be. For me new equipment should open up a new way to have fun! Limitations should force me to think harder and be more creative with what I can do! 
+
