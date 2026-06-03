@@ -5,7 +5,7 @@ categories:
   - photography
 date: '2026-05-09'
 edited: '2026-05-09'
-published: true
+published: false
 ---
 
 # On Photographic Medium
