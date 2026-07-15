@@ -28,13 +28,13 @@ I quickly adjusted to the rangefinder experience, enjoying being able to see mor
 
 A combination of film slowing me down and forcing me to consider my compositions, and the camera workflow encouraging a kind of "flow" state, I made some of my favourite images Ive to date. And ohhhhh my god, the gentle *click* of the leaf shutter on this is so delightful.
 
-(add piccies)
+![a tired person against a wall in black and white](https://github.com/user-attachments/assets/342b4740-53f8-408c-a358-1c53e41589a7?fit=contain)
 
 ## Gear Acquisition Syndrome
 
 Gear acquisition syndrome is an in joke in many hobbyist circles. It implies that the sufferer enjoys collecting and purchasing new items more than the usage of them, or that the next thing will be the game changer (spoiler: it rarely is). There is rarely, if ever, going to be a new piece of equipment that slightly outperforms the old one that uplifts your experience of a practice to new heights. Higher megapixel counts, IBIS, a faster/sharper lens... None of these will make me a better photographer. Car enthusiasts like to say that often the best modification you can do is 'driver mod', which basically means get better at driving before you consider upgrading your car.
 
-With that in mind, I *don't* think that purchasing new equipment is inherently bad, even if you haven't extracted every last ounce out of your existing kit. After experiencing the joy of shooting film with a rangefinder, and in the context of wanting to spend less on it, I made the very sensible financial decision to purchase an older, very beat up, Leica M-P Typ 240. I've named her Emma. An objectively worse camera than anything else i could spend the same money on equipment wise.
+With that in mind, I *don't* think that purchasing new equipment is inherently bad, even if you haven't extracted every last ounce out of your existing kit. After experiencing the joy of shooting film with a rangefinder, and in the context of wanting to spend less on film itself, I made the very sensible financial decision to purchase an older, very beat up, Leica M-P Typ 240. I've named her Emma. An objectively worse camera than anything else i could spend the same money on equipment wise.
 
 My conclusion i've kind of reached with gear is that you should own the things that make you _want_ to use them, and dear god does this camera make me want to carry it with me all day and hit that shutter button until it stops working.
 
@@ -42,5 +42,8 @@ My conclusion i've kind of reached with gear is that you should own the things t
 
 So when I think about what I enjoy about film, and how I can get that experience in other ways, while also imposing similar limitations on myself, the only option is really Leica (please someone make a digital camera like them but cheaper). Sure I could adapt some of my manual lenses to a fuji or sony body, but then the temptation to spend more time diving into menus and fiddling is going to be there. And I know myself well enough that if I have the opportunity to fiddle, i'll spend all day doing it until I hate what the object represents. 
 
-I think arguments about specifications completely miss the point for anyone other than professionals who actually see the benefits from expanded and improved feature sets. I'm not a professional photographer and i don't want to be. For me new equipment should open up a new way to have fun! Limitations should force me to think harder and be more creative with what I can do! 
+I think arguments about specifications completely miss the point for anyone other than professionals who actually see the benefits from expanded and improved feature sets. I'm not a professional photographer and i don't want to be. For me new equipment should open up a new way to have fun! Limitations should force me to think harder and be more creative with what I can do. 
+
+I mentioned earlier about feeling connected to a camera, and I realise that this is a concept that is ambiguous and hard to define. It will vary from person to person, and the tools that they use. I think attempting to be prescriptive about what it is to me defeats the point, setting out a list of features and comparing them isn't really going to tell me if I enjoy using an object. Maybe i can add 'feels nice to hold' or 'nice shutter sound', but then how do you define those? Regardless, a general theme for me is mechanical use, i like using objects that have a certain tactility and feedback to them. 
+
 
