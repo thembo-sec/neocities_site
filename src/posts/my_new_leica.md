@@ -3,9 +3,9 @@ title: Rangefinder Bliss
 description: I bought a leica.
 categories:
   - photography
-date: '2026-05-09'
-edited: '2026-05-09'
-published: false
+date: '2026-07-20'
+edited: '2026-07-20'
+published: true
 ---
 
 # On Photographic Medium
@@ -28,7 +28,7 @@ I quickly adjusted to the rangefinder experience, enjoying being able to see mor
 
 A combination of film slowing me down and forcing me to consider my compositions, and the camera workflow encouraging a kind of "flow" state, I made some of my favourite images Ive to date. And ohhhhh my god, the gentle *click* of the leaf shutter on this is so delightful.
 
-![a tired person against a wall in black and white](https://github.com/user-attachments/assets/342b4740-53f8-408c-a358-1c53e41589a7?fit=contain)
+![a tired person against a wall in black and white](../../static/images/621799378-342b4740-53f8-408c-a358-1c53e41589a7.png)
 
 ## Gear Acquisition Syndrome
 
@@ -46,4 +46,22 @@ I think arguments about specifications completely miss the point for anyone othe
 
 I mentioned earlier about feeling connected to a camera, and I realise that this is a concept that is ambiguous and hard to define. It will vary from person to person, and the tools that they use. I think attempting to be prescriptive about what it is to me defeats the point, setting out a list of features and comparing them isn't really going to tell me if I enjoy using an object. Maybe i can add 'feels nice to hold' or 'nice shutter sound', but then how do you define those? Regardless, a general theme for me is mechanical use, i like using objects that have a certain tactility and feedback to them. 
 
+## Emma
 
+How do i describe a camera to me?
+
+I never considered myself to be a particularly sentimental person, but over the last few years that has changed considerably. My partner often talks about objects as containers of memory, especially ones that demonstrate their usage over time through wear and tear. I think this goes doubley for a camera, an object whose sole purpose is to make images, to make memories. My relationship to each camera is related to the memories that each one has been present for, whether the memories are mine or not.
+
+Emma has seen her share of use, she arrived with some pretty significant paint loss, revealing the brass underneath. Indicative of an object that was well used, or at least well travelled. It does make me wonder what she's been through, and why the previous owner decided to sell her. I look forward to adding more scuffs and patina to her.
+
+I feel like i've captured more joy with this new camera than I have with some of my others. I'm not sure if its a change in my life circumstances (i doubt it the last few months have been so stressful); a change in the things I've wanted to photograph; or the way this camera forces me to use it. Rangefinders do not see through the lens as a mirrorless or slr type camera would, instead they present an abstracted view, a rough estimation of what the lens sees. 
+
+Am i abstracting myself more? it doesn't feel like it, i do feel more connected to this camera than say my Pen-F Digital.... but its definitely something that i'm sure I will ponder more without ever reaching any meaningfull conclusion. 
+
+I will say i'm finding myself experimenting with more colour photography, though I still think the kind of things my eye is drawn too are often more suitable for black and white. If I ever change or acquire another leica i imagine it will likely be one of their monochrom cameras. 
+
+Here's a few photos from the last couple of months from her.
+
+![Someone stands, their face half in darkness, with a gentle smile](../../static/images/MP__4407.jpg)
+![Some friends hugging](../../static/images/MP__3903.jpg)
+![Black and white photo of someone sitting and staring into the distance](../../static/images/MP__3897.jpg)
