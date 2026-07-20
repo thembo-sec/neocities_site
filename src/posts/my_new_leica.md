@@ -24,7 +24,7 @@ A few weeks ago, after a particularly shitty week, I purchased a cheap Yashica Y
 
 ![A camera in hand](../../static/images/yash1.jpeg?fit=contain;)
 
-I quickly adjusted to the rangefinder experience, enjoying being able to see more through the viewfinder than just the frame that would be taken. The camera being completely manual forced me to take an ambient light reading and adjust from ther with each shot. a work flow that then allowed zone focusing to become much more natural.
+I quickly adjusted to the rangefinder experience, enjoying being able to see more through the viewfinder than just the frame that would be taken. The camera being completely manual forced me to take an ambient light reading and adjust from there with each shot. a work flow that then allowed zone focusing to become much more natural.
 
 A combination of film slowing me down and forcing me to consider my compositions, and the camera workflow encouraging a kind of "flow" state, I made some of my favourite images to date. And ohhhhh my god, the gentle *click* of the leaf shutter on the yashy is so delightful.
 
