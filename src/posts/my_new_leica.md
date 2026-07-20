@@ -1,4 +1,4 @@
-9---
+---
 title: Rangefinder Bliss
 description: I bought a leica.
 categories:
