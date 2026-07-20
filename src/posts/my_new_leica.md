@@ -1,4 +1,4 @@
----
+9---
 title: Rangefinder Bliss
 description: I bought a leica.
 categories:
@@ -10,7 +10,7 @@ published: true
 
 # On Photographic Medium
 
-For the past two or so years, most of my photography has been on film. Thats not so much a measure of volume, but rather the photos that I feel like I have connected with and enjoyed taking. I have several digital cameras, one of which (an Olympus Pen F) which I do shoot with fairly often. I still never feel like i've '*connected*' with that camera, where 'connected' here is followed by a lot of hand waving and general vibes.
+For the past two or so years, most of my photography has been on film. Thats not so much a measure of volume, but rather the photos that I feel like I have connected with and enjoyed taking. I have several digital cameras, one of which (an Olympus Pen F) I do shoot with fairly often. I still never feel like i've '*connected*' with that camera, where 'connected' here is followed by a lot of hand waving and general vibes.
 
 I enjoy the process of shooting film from beginning to end, its a more deliberate process with more limiting tools and I enjoy the images I make at the end far more. I have much more emotional connection to more of my film photos than the ones I take on digital.
 
@@ -24,9 +24,11 @@ A few weeks ago, after a particularly shitty week, I purchased a cheap Yashica Y
 
 ![A camera in hand](../../static/images/yash1.jpeg?fit=contain;)
 
-I quickly adjusted to the rangefinder experience, enjoying being able to see more than just the frame that would be taken. The camera bring completely manual forced me to take an ambient light reading and go from there, a work flow that then allowed zone focusing to become much more natural.
+I quickly adjusted to the rangefinder experience, enjoying being able to see more through the viewfinder than just the frame that would be taken. The camera being completely manual forced me to take an ambient light reading and adjust from ther with each shot. a work flow that then allowed zone focusing to become much more natural.
 
-A combination of film slowing me down and forcing me to consider my compositions, and the camera workflow encouraging a kind of "flow" state, I made some of my favourite images Ive to date. And ohhhhh my god, the gentle *click* of the leaf shutter on this is so delightful.
+A combination of film slowing me down and forcing me to consider my compositions, and the camera workflow encouraging a kind of "flow" state, I made some of my favourite images to date. And ohhhhh my god, the gentle *click* of the leaf shutter on the yashy is so delightful.
+
+the lens - an old design - is kind of scuffed, leading to this dreamy vibe seem below:
 
 ![a tired person against a wall in black and white](../../static/images/621799378-342b4740-53f8-408c-a358-1c53e41589a7.png)
 
