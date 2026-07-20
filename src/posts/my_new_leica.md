@@ -56,9 +56,9 @@ I never considered myself to be a particularly sentimental person, but over the 
 
 Emma has seen her share of use, she arrived with some pretty significant paint loss, revealing the brass underneath. Indicative of an object that was well used, or at least well travelled. It does make me wonder what she's been through, and why the previous owner decided to sell her. I look forward to adding more scuffs and patina to her.
 
-I feel like i've captured more joy with this new camera than I have with some of my others. I'm not sure if its a change in my life circumstances (i doubt it the last few months have been so stressful); a change in the things I've wanted to photograph; or the way this camera forces me to use it. Rangefinders do not see through the lens as a mirrorless or slr type camera would, instead they present an abstracted view, a rough estimation of what the lens sees. 
+I feel like i've captured more joy with this new camera than I have with some of my others. I'm not sure if its a change in my life circumstances (i doubt it the last few months have been so stressful); a change in the things I've wanted to photograph; or the way this camera forces me to use it. Rangefinders do not see through the lens as a mirrorless or slr type camera would. instead they present an abstracted view, a rough estimation of what the lens sees. 
 
-Am i abstracting myself more? it doesn't feel like it, i do feel more connected to this camera than say my Pen-F Digital.... but its definitely something that i'm sure I will ponder more without ever reaching any meaningfull conclusion. 
+Am i abstracting myself more as a result? it doesn't feel like it, i do feel more connected to this camera than say my Pen-F Digital.... but its definitely something that i'm sure I will ponder more without ever reaching any meaningfull conclusion. 
 
 I will say i'm finding myself experimenting with more colour photography, though I still think the kind of things my eye is drawn too are often more suitable for black and white. If I ever change or acquire another leica i imagine it will likely be one of their monochrom cameras. 
 
