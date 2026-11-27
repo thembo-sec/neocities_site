@@ -1,6 +1,7 @@
 ---
 title: November
 description: Bored, alone, scared, weird times
+filename: funk
 categories:
   - photography
   - updates
