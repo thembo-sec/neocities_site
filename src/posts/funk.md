@@ -6,7 +6,7 @@ categories:
   - updates
 date: '2026-11-27'
 edited: '2026-11-27'
-published: false
+published: true
 ---
 
 # Alone for the first time in a long time
