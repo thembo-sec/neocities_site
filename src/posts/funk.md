@@ -28,7 +28,7 @@ Jesus christ the grief is real, in the last 18 months i've lost 3 grandparents, 
 
 ## Relationships
 
-Extra confusing is my relationship with one of my closest friends, where there is a deep intimacy and shared way of living. I have moments of wanting them so much it aches. it feels silly, but i like the image of dancing in the kitchen while they sew, or being curled on a porch together with a morning coffee. I could see it being easy to build a life together. currently trying not to let that one spill out in a way that damages things. choosing to not pursue it feels like objectively the right decision given where my head is at, but fuuuuck did i want to be with them, and its hard not to feel like i've just... missed my chance. 
+Extra confusing is my relationship with one of my closest friends, where there is a deep intimacy and shared way of living. it feels silly, but i like the image of dancing in the kitchen while they sew, or being curled on a porch together with a morning coffee. I could see it being easy to build a life together. currently trying not to let that one spill out in a way that damages things. choosing to not pursue it feels like objectively the right decision given where my head is at, but fuuuuck did i want to be with them, and its hard not to feel like i've just... missed my chance. 
 
 If it happens, it happens, but i can't live and build my life in a way that has that as an expectation. Timing sucks, hate this, really want to kiss 'em. 
 
