@@ -1,5 +1,6 @@
 ---
 title: Rangefinder Bliss
+filename: my_new_leica
 description: I bought a leica.
 categories:
   - photography
